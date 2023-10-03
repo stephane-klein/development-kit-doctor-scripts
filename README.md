@@ -18,9 +18,9 @@ See https://github.com/stephane-klein/postgres-playground-skeleton/tree/main
 
 ## FAQ
 
-**Q1** Why not implement a script that installs all the tools automatically?<br />
-**R1** These tools are installed on my personal desktop OS. I use this OS for other purposes than running this project.
+**Q1**. Why not implement a script that installs all the tools automatically?<br />
+**R1**. These tools are installed on my personal desktop OS. I use this OS for other purposes than running this project.
 I want to control what I install on my OS and how install it. I don't want to run a script that automatically installs everything on my OS, without understand exactly what is installed and how it is installed.
 
-**Q2** Why don't use Ansible to check installation and install tools?<br />
-**R2** I don't what to install automatically this tools (see **R1**). I think Ansible is overkill compared to a "simple" bash script, which is very "straightforward".
+**Q2**. Why don't use Ansible to check installation and install tools?<br />
+**R2**. I don't what to install automatically this tools (see **R1**). I think Ansible is overkill compared to a "simple" bash script, which is very "straightforward".
