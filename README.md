@@ -24,3 +24,8 @@ I want to control what I install on my OS and how install it. I don't want to ru
 
 **Q2**. Why don't use Ansible to check installation and install tools?<br />
 **R2**. I don't what to install automatically this tools (see **R1**). I think Ansible is overkill compared to a "simple" bash script, which is very "straightforward".
+
+**Q3**. This project tests very few things, very few tools. Is this normal?
+**R4**. Yes, that's normal, this is a young project and I'll be adding test scripts and
+installation instructions progressively. You can see [here](https://github.com/stephane-klein/development-kit-doctor-scripts/issues)
+the list of the next improvements I want to implement.
