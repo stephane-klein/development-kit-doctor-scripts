@@ -28,6 +28,7 @@ $ pip install pgcli
 ### Installation on Fedora
 
 To install [Docker Engine](https://docs.docker.com/engine/)  `docker compose` follow [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/) instructions or execute:
+To install [Docker Engine](https://docs.docker.com/engine/) and `docker compose` follow [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/) instructions or execute:
 
 ```
 $ sudo dnf -y install dnf-plugins-core\n"
