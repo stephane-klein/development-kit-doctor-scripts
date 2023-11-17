@@ -27,14 +27,15 @@ $ pip install pgcli
 
 ### Installation on Fedora
 
- or execute
 To install [Docker Engine](https://docs.docker.com/engine/)  `docker compose` follow [Install Docker Engine on Fedora](https://docs.docker.com/engine/install/fedora/) instructions or execute:
+
 ```
 $ sudo dnf -y install dnf-plugins-core\n"
 $ sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo\n"
 $ sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin\n"
 $ sudo systemctl start docker\n"
 ```
+
 Execute this command to install `psql`:
 
 ```sh
